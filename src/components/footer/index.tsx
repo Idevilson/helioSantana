@@ -57,7 +57,7 @@ export function Footer() {
                         src="/assets/footer/nameAndNumber.png"
                         alt="Nome e número da candidata"
                         width={854}
-                        height={100}
+                        height={200}
                         quality={100}
                     />
                 </div>

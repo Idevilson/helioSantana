@@ -51,6 +51,7 @@ export function SecondSection() {
                                     alt="Foto do helioSantana"
                                     width={300}
                                     height={461}
+                                    layout={"fixed"}
                                     quality={100}
                                 />
                             </div>
