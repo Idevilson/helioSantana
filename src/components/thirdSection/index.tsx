@@ -178,14 +178,15 @@ export function ThirdSection() {
                         </div>
 
                         <div className={styles.cardMobile}>
-                            <Image
-                                src="/assets/thirdSection/4Mobile.png"
-                                alt="terceiro ícone"
-                                width={230}
-                                height={230}
-                                quality={100}
-                            />
-
+                            <div className={styles.cardImageMobile}>
+                                <Image
+                                    src="/assets/thirdSection/4Mobile.png"
+                                    alt="terceiro ícone"
+                                    width={230}
+                                    height={230}
+                                    quality={100}
+                                />
+                            </div>
                             <div className={styles.textBoxMobile}>
                                 <h2 className={styles.textMobile}>
                                     Trabalharei com o <br />

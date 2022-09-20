@@ -262,15 +262,17 @@
           position: relative;
           align-items: center;
           flex-direction: column;
+          height: 700px;
 
           margin-left: 2rem;
           margin-right: 2rem;
 
           .cardImageMobile{
-            width: 230px;
-            height: 230px;
-
-            margin-top: 8rem
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 100%;
+            height: 300px;
           }
 
           .textBoxMobile {
@@ -279,7 +281,7 @@
             justify-content: center;
 
             width: 850px;
-            height: 230px;
+            height: 290px;
 
             .textMobile{
               color: #004194;
@@ -298,17 +300,6 @@
 
             }
           }
-
-
-        }
-
-        .cardMobile:nth-child(3){
-          margin-top: 2rem;
-
-        }
-
-        .cardMobile:nth-child(4){
-          margin-top: 8rem;
         }
       }
     }
