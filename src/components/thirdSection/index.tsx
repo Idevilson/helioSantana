@@ -31,8 +31,9 @@ export function ThirdSection() {
 
                                 <div className={styles.textBox}>
                                     <h2 className={styles.text}>
-                                        REPRESENTANTE <br />
-                                        DA JUVENTUDE
+                                        Qualquer tipo de auxílio <br />
+                                        de deputado eu devolverei <br />
+                                        a população
                                     </h2>
                                 </div>
                             </div>
