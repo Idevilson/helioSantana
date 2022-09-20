@@ -63,7 +63,7 @@ export function Footer() {
                 </div>
 
 
-                <div className={styles.textBottomMobile}>
+                <div className={styles.textBottom}>
                     <h1>
                         LEI Nº9.504/97 - FEDERAÇÃO PSDB - CIDADANIA. CNPJ: 47.632.645/0001-00
                     </h1>
