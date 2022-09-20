@@ -30,7 +30,7 @@ export function Footer() {
                             </div>
 
                             <div className={styles.alignIcons}>
-                                <Link href="/">
+                                <Link href="">
                                     <Image
                                         src="/assets/footer/facebook.png"
                                         alt="ícone do facebook"
@@ -40,7 +40,7 @@ export function Footer() {
                                 </Link>
                             </div>
                             <div className={styles.alignIcons}>
-                                <Link href="/">
+                                <Link href="">
                                     <Image
                                         src="/assets/footer/whatsapp.png"
                                         alt="ícone do whatsapp"
