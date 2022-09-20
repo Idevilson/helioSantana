@@ -47,7 +47,7 @@ export function SecondSection() {
                         <div className={styles.leftSectionBodyContent}>
                             <div className={styles.imageContainer}>
                                 <Image
-                                    src="/assets/secondSection/helioSantana.png"
+                                    src="/assets/secondSection/fotoMobile.png"
                                     alt="Foto do helioSantana"
                                     width={300}
                                     height={461}
