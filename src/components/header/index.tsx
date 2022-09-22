@@ -9,40 +9,15 @@ export function Header() {
             <div className={styles.headerContent}>
                 <div className={styles.socialIconsContainer}>
                             <div className={styles.socialIcon}>
-                                <Link href="https://www.instagram.com/helio_santana_oficial">
 
-                                    <a target="_blank">
-                                        <Image
-                                            src="/assets/header/instagram.png"
-                                            alt="ícone do instagram"
-                                            layout={"fill"}
-                                        />
-                                    </a>
-                                </Link>
                             </div>
 
                             <div className={styles.socialIcon}>
-                                <Link href="">
-                                    <a  target="_blank">
-                                        <Image
-                                            src="/assets/header/facebook.png"
-                                            alt="ícone do facebook"
-                                            layout={"fill"}
-                                        />
-                                    </a>
-                                </Link>
+
                             </div>
 
                             <div className={styles.socialIcon}>
-                                <Link href="">
-                                    <a  target="_blank">
-                                        <Image
-                                            src="/assets/header/whatsapp.png"
-                                            alt="ícone do whatsapp"
-                                            layout={"fill"}
-                                        />
-                                    </a>
-                                </Link>
+
                             </div>
 
             </div>
