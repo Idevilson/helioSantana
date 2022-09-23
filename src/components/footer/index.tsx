@@ -15,31 +15,6 @@ export function Footer() {
                         height={27}
                         quality={100}
                     />
-                    <div className={styles.socialIconsContainer}>
-                        <div className={styles.alignIcons}>
-                            <Link href="https://www.instagram.com/laercio_gaia">
-                                <a>
-                                    <Image
-                                        src="/assets/footer/instagram.png"
-                                        alt="ícone do instagram"
-                                        width={39}
-                                        height={39}
-                                    />
-                                </a>
-                            </Link>
-                        </div>
-
-                        <div className={styles.alignIcons}>
-                            <Link href="https://www.facebook.com/laercio.marcely">
-                                <Image
-                                    src="/assets/footer/facebook.png"
-                                    alt="ícone do facebook"
-                                    width={39}
-                                    height={39}
-                                />
-                            </Link>
-                        </div>
-                    </div>
                 </div>
 
                 <div className={styles.nameAndNumber}>
