@@ -45,6 +45,15 @@ export function Footer() {
                     />
                 </div>
 
+                <div className={styles.footerTopMobile}>
+                    <Image
+                        src="/assets/footer/sigaMobile.png"
+                        alt="Siga as Redes Sociais"
+                        width={952}
+                        height={43}
+                        quality={100}
+                    />
+                </div>
 
                 <div className={styles.logoDoPartido}>
                     <Image
