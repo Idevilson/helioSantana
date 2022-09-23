@@ -7,7 +7,40 @@ export function Footer() {
     return(
         <>
             <footer className={styles.footerContainer} id="footer">
+                <div className={styles.footerTop}>
+                    <Image
+                        src="/assets/footer/siga.png"
+                        alt="Siga as Redes Sociais"
+                        width={590}
+                        height={27}
+                        quality={100}
+                    />
+                    <div className={styles.socialIconsContainer}>
+                        <div className={styles.alignIcons}>
+                            <Link href="https://www.instagram.com/laercio_gaia">
+                                <a>
+                                    <Image
+                                        src="/assets/footer/instagram.png"
+                                        alt="ícone do instagram"
+                                        width={39}
+                                        height={39}
+                                    />
+                                </a>
+                            </Link>
+                        </div>
 
+                        <div className={styles.alignIcons}>
+                            <Link href="https://www.facebook.com/laercio.marcely">
+                                <Image
+                                    src="/assets/footer/facebook.png"
+                                    alt="ícone do facebook"
+                                    width={39}
+                                    height={39}
+                                />
+                            </Link>
+                        </div>
+                    </div>
+                </div>
 
                 <div className={styles.nameAndNumber}>
                     <Image
@@ -18,7 +51,6 @@ export function Footer() {
                         quality={100}
                     />
                 </div>
-
 
                 <div className={styles.textBottom}>
                     <h1>
