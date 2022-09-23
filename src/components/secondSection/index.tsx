@@ -123,7 +123,7 @@ export function SecondSection() {
                         style={{
                             alignItems: "center",
                             width: 1000,
-                            height: 500,
+                            height: 700,
                             marginBottom: 70,
                             marginLeft: 40
                         }}

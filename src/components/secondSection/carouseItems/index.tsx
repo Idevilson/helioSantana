@@ -19,14 +19,13 @@ function CarouselItem1() {
             </div>
             <div className={styles.body}>
                 <h2 className={styles.text}>
-                    Sou Hélio Santana, policial <br/>
-                    civil há mais de 25 anos, <br/>
-                    candidato a Deputado Estadual. <br/>
-                    Em meu programa eleitoral, <br/>
+                    Sou Hélio Santana, policial civil há <br/>
+                    mais de 25 anos, candidato a Deputado<br/>
+                    Estadual. Em meu programa eleitoral, <br/>
                     tenho dito que com salário de policial<br/>
-                    eu sustento minha família com dignidade. <br/>
-                    Por isso, se eleito, doarei o salário <br/>
-                    de deputado às instituições de caridade <br/>
+                    eu sustento minha família com dignidade.<br/>
+                    Por isso, se eleito, doarei o salário<br/>
+                    de deputado às instituições de caridade<br/>
                     ou pessoas com graves problemas de Saúde.
 
                 </h2>
